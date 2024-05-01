@@ -1,5 +1,5 @@
 # kaggle_study
-try and study data-driven projects in Kaggle competitions
+try and study data-analyzing projects in Kaggle competitions
 
 - Ubiquant_Market_Prediction.ipynb
   Build a model that forecasts an investments' return late with ubiquant market data.
